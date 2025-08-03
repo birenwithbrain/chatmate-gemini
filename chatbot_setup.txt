@@ -1,0 +1,7 @@
+cd C:\Users\username\Pragramming\Pythons\gemini_chatbot
+
+venv\Scripts\activate
+
+set GEMINI_API_KEY=API_key
+
+python chatbot.py
