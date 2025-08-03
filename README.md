@@ -52,3 +52,27 @@ pip install -r requirements.txt
 
 # 4. Run the Flask app
 python app.py
+
+Then open your browser and go to:
+👉 http://localhost:5000
+
+```
+---
+🔐 Gemini API Key Setup
+Go to Gemini Console
+
+Generate API key
+
+In your app.py, add it like:
+  headers = {
+      "Authorization": "YOUR_API_KEY",
+      ...
+  }
+---
+📄 License
+This project is licensed under the MIT License
+
+🧑‍💻 Author
+Made with chill, thrill, and some full-stack skill by
+Rocky – [LinkedIn](https://www.linkedin.com/in/birendra-sasmal/) | [GitHub](https://www.instagram.com/birenwithbrain/)
+
