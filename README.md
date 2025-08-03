@@ -32,8 +32,7 @@ Yes... this was "vibe coding" at its peak 😎
 
 ## 📸 Screenshots
 
-> *(<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c31dc2b7-8bf5-4bf7-8621-6f39ad037459" />
-)*
+> *<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c31dc2b7-8bf5-4bf7-8621-6f39ad037459" />*
 
 ---
 
